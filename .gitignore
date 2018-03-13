@@ -1,0 +1,11 @@
+.project
+.metadata
+.recommenders
+~*
+*.classpath
+*.setting*
+*bin*
+*.class
+.README
+*data_files*
+*Logs*
