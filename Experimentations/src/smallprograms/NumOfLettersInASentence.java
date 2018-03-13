@@ -20,8 +20,6 @@ public class NumOfLettersInASentence {
 			if (newLine.equals("done"))
 				break;
 			inputText += newLine;
-			System.out.println(newLine);
-			System.out.println(inputText);
 		}
 
 		Map<Character, Integer> characterCounts = new TreeMap<Character, Integer>();
